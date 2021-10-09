@@ -14,3 +14,4 @@ pip-selfcheck.json
 *.stackdump
 *.exe
 Semana3Hackaton/ccorrales/dni/__init__.py
+__pycache__
